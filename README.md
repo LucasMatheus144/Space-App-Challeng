@@ -1,2 +1,2 @@
-# Space-App-Challeng
-1 participaçao do evento Space App Challeng Hackathon
+# Space-App-Challenge
+1 participaçao do evento Space App Challenge Hackathon
