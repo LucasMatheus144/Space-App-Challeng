@@ -3,4 +3,4 @@ Primeira participaçao do evento Space App Challenge Hackathon
 
 
 
-Protótipo e pode apresentar erros!!
+Protótipo e apresenta erros!!
